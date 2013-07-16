@@ -22,4 +22,4 @@
 在方块没有完全进入画布前，左右移动方块到边界，会导致Bug。
 
 ## 演示
-<http://manxisuo.github.io/#!2013-05-12-teriss>
+<http://manxisuo.tk/#!2013-05-12-tetris>
